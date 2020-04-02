@@ -3,20 +3,11 @@ class Heart {
         const heart = document.getElementById(id);
         const text = heart.querySelector(".heart-text");
         const sayings = [
-            "ur cute",
-            "marry me",
-            "kiss me",
-            "miss you",
-            "get real",
-            "wink wink",
-            "why not?",
-            "say yes",
-            "get out",
-            "party time",
-            "oh baby",
-            "dare ya",
-            "sweet heart",
-            "hog tie"
+            "T",
+            "E",
+            "A",
+            "M",
+            "O"
         ];
 
         heart.addEventListener("click", () => {
